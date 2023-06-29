@@ -49,6 +49,15 @@ If you want to contribute to this project, you can follow these steps:
 5. Submit a pull request detailing the changes you made.
 
 ## License
-Include the license information for your project. For example, you can choose a license from [https://choosealicense.com/](https://choosealicense.com/) and specify it in this section.
+This project is licensed under the [Creative Commons Legal Code](https://creativecommons.org/publicdomain/zero/1.0/legalcode).
+
+CREATIVE COMMONS CORPORATION IS NOT A LAW FIRM AND DOES NOT PROVIDE
+LEGAL SERVICES. DISTRIBUTION OF THIS DOCUMENT DOES NOT CREATE AN
+ATTORNEY-CLIENT RELATIONSHIP. CREATIVE COMMONS PROVIDES THIS
+INFORMATION ON AN "AS-IS" BASIS. CREATIVE COMMONS MAKES NO WARRANTIES
+REGARDING THE USE OF THIS DOCUMENT OR THE INFORMATION OR WORKS
+PROVIDED HEREUNDER, AND DISCLAIMS LIABILITY FOR DAMAGES RESULTING FROM
+THE USE OF THIS DOCUMENT OR THE INFORMATION OR WORKS PROVIDED
+HEREUNDER.
 
 Feel free to customize this README file according to your project's specific details and requirements.
